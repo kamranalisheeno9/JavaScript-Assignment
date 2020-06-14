@@ -672,11 +672,63 @@
 
 // ** Chapter 14-16 ** Task 8 **
 
+// var studentNames=[prompt("Enter Name 1"),prompt("Enter Name 2"),prompt("Enter Name 3")];
+// var studentScore=[+prompt("Enter "+studentNames[0]+" Score"),+prompt("Enter "+studentNames[1]+" Score"),+prompt("Enter "+studentNames[2]+" Score")];
+// var total=500;
+// var percentage=[(studentScore[0]*100)/total,(studentScore[1]*100)/total,(studentScore[2]*100)/total];
+// document.write("Score of "+studentNames[0]+" is "+studentScore[0]+". Percentage: "+percentage[0]+"%"+"<br>");
+// document.write("Score of "+studentNames[1]+" is "+studentScore[1]+". Percentage: "+percentage[1]+"%" +"<br>" );
+// document.write("Score of "+studentNames[2]+" is "+studentScore[2]+". Percentage: "+percentage[2]+"%"  +"<br>" );
+
 // ** Chapter 14-16 ** Task 9 **
+
+// var color=["Blue","Red","Green"];
+// alert(color);
+// var add=prompt("What color do you want to add in start ?");
+// color.unshift(add);
+// alert(color);
+// var add=prompt("What color do you want to add in end ?");
+// color.push(add);
+// alert(color);
+// color.splice(0,0,"Navy Blue","Light Green");
+// alert(color);
+// color.shift();
+// alert(color);
+// color.pop();
+// alert(color);
+// var index=+prompt("Enter the index number where you want to add color ")
+// var add1=prompt("What color do you want to add ? ")
+// color.splice(index,0,add1);
+// alert(color);
+// var indexDelete=+prompt("Enter the index number where you want to delete color ")
+// var indexNumbers=+prompt("How many colors do you want to delete ?")
+// color.splice(indexDelete,indexNumbers);
+// alert(color);
+
+
 // ** Chapter 14-16 ** Task 10 **
+
+
+
 // ** Chapter 14-16 ** Task 11 **
+
+// var cityNames=["Karachi","Lahore","Dadu","Islamabad","Larkana"];
+// selectedCities=cityNames.slice(0,3);
+// document.write("Cities List:"+"<br>"+cityNames+"<br><br><br>");
+// document.write("Selected Cities List:"+"<br>"+selectedCities);
+
+
 // ** Chapter 14-16 ** Task 12 **
+
+// var arr = ["This ",  "is" , " my" , " cat"];
+// var arr2 =arr.join("");
+// document.write("Array: "+"<br>"+arr+"<br><br>");
+// document.write("String: "+"<br>"+arr2);
+
 // ** Chapter 14-16 ** Task 13 **
+
+
+
 // ** Chapter 14-16 ** Task 14 **
 // ** Chapter 14-16 ** Task 15 **
 
@@ -777,11 +829,27 @@
 
 // ** Chapter 17-20 ** Task 8 **
 
-
+// var arr=[24,53,78,91,12];
+// max=arr[0];
+// for(i=0;i<arr.length;i++){
+//     if(arr[i]>=max){
+//     max=arr[i];
+//     }
+// }
+// document.write("Arry items : "+arr+"<br>")
+// document.write("The largest number is "+max)
 
 // ** Chapter 17-20 ** Task 9 **
 
-
+// var arr=[24,53,78,91,12];
+// min=arr[0];
+// for(i=0;i<arr.length;i++){
+//     if(arr[i]<=min){
+//     min=arr[i];
+//     }
+// }
+// document.write("Arry items : "+arr+"<br>")
+// document.write("The smallest number is "+min)
 
 // ** Chapter 17-20 ** Task 10 **
 
