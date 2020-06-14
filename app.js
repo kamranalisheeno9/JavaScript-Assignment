@@ -591,3 +591,183 @@
 
 // ** Chapter 12-13 ** Task 5 **
 
+// var password="kamran";
+// var enterPassword=prompt("Enter The Password");
+// if(enterPassword === password){
+//     alert("Correct! The password you entered matches the original password")
+// }
+// else if(enterPassword === ""){
+//     alert("Please Enter The Password")
+
+// }
+// else{
+//     alert("Incorrect Password")
+
+// }
+
+// ** Chapter 12-13 ** Task 6 **
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";
+// alert(greeting)
+// }
+// else{
+
+// greeting = "Good evening";
+// alert(greeting)
+// }
+
+// ** Chapter 12-13 ** Task 7 **
+
+// var time=prompt("Enter Time in 0000 Format ");
+// if(time>=0000 & time<1200){
+//     alert("Good Morning!")
+// }
+// else if(time>=1200 & time<1700){
+//     alert("Good Afternoon!")
+// }
+// else if(time>=1700 & time<2100){
+//     alert("Good Evening!")
+// }
+// else if(time>=2100 & time<2359){
+//     alert("Good Night!")
+// }
+// else{
+//     alert("Wrong Input")
+// }
+
+// ** Chapter 14-16 ** Task 1 **
+
+// var students=[];
+
+// ** Chapter 14-16 ** Task 2 **
+
+// var student= new Array ();
+
+// ** Chapter 14-16 ** Task 3 **
+
+// var student=["kamran","Ali","Sheeno"];
+
+// ** Chapter 14-16 ** Task 4 **
+
+// var student=[1,22,346];
+
+// ** Chapter 14-16 ** Task 5 **
+
+// var value=[true,flase];
+
+// ** Chapter 14-16 ** Task 6 **
+
+// var value=[123,ture,"kamran"];
+
+// ** Chapter 14-16 ** Task 7 **
+ 
+// var qualification=["","SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M. Phil.", "PhD"];
+// document.write("<h1>Qualifications: </h1>")
+// for(i=1;i<qualification.length;i++){
+//     document.write("<h3>"+i +")"+qualification[i]+"</h3>")
+// }
+
+// ** Chapter 14-16 ** Task 8 **
+
+// ** Chapter 14-16 ** Task 9 **
+// ** Chapter 14-16 ** Task 10 **
+// ** Chapter 14-16 ** Task 11 **
+// ** Chapter 14-16 ** Task 12 **
+// ** Chapter 14-16 ** Task 13 **
+// ** Chapter 14-16 ** Task 14 **
+// ** Chapter 14-16 ** Task 15 **
+
+// ** Chapter 17-20 ** Task 1 **
+
+// var multiarr=[[],[],[]];
+
+// ** Chapter 17-20 ** Task 2 **
+
+// var arr=[[0,1,2,3],[1,0,1,2],[2,1,0,1]];
+// document.write(arr);
+
+// ** Chapter 17-20 ** Task 3 **
+
+// for(i=1;i<=10;i++){
+//     document.write(i+"<br>")
+// }
+
+// ** Chapter 17-20 ** Task 4 **
+
+// var tableNumber =+prompt("Enter Table Number")
+// var length=+prompt("Enter Length")
+
+// for(i=1;i<=length;i++){
+//     document.write(tableNumber + "x" + i + "=" + tableNumber*i +"<br>")
+// }
+
+// ** Chapter 17-20 ** Task 5 **
+
+
+
+// var fruits = ["apple","banna","orange","mango","strawberry"];
+// for(var i=0;i<fruits.length ;i++)
+// {
+// document.write(fruits[i]+"<br>")
+// }
+// document.write("<br> <br>")
+// for(var i=0;i<fruits.length ;i++)
+// {
+//     document.write("Element at index " + i+"<br>" +" is " + fruits[i] + "<br>" )
+// }
+
+
+// ** Chapter 17-20 ** Task 6 **
+
+
+// document.write("<b> Counting" + "<br>")
+
+// for(var i=1;i<=15;i++)
+// {
+//     document.write(  i +",") 
+// }
+
+
+// document.write("<br>"+"<b> Reverse counting" + "<br>")
+
+// for(var i=10;i>=1;i--)
+// {
+//     document.write(  i +",") 
+// }
+
+
+
+// document.write("<br>"+ "<b> Counting" + "<br>")
+
+// for(var i=0;i<=20;i=i+2)
+// {
+//     document.write(  i +",") 
+// }
+
+
+// document.write("<br>"+ "<b> Counting" + "<br>")
+
+// for(var i=1;i<=20;i=i+2)
+// {
+//     document.write(  i +",") 
+// }
+
+
+// document.write("<br>"+ "<b> Counting" + "<br>")
+
+// for(var i=2;i<=20;i=i+2)
+// {
+//     document.write(  i +"k"+",") 
+// }
+
+// ** Chapter 17-20 ** Task 7 **
+
+// var A= ["cake", "apple pie", "cookie", "chips", "patties"];
+// var search=+prompt("Enter Item Name");
+// if
+
+
+
