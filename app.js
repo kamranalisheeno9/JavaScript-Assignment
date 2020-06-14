@@ -766,8 +766,28 @@
 // ** Chapter 17-20 ** Task 7 **
 
 // var A= ["cake", "apple pie", "cookie", "chips", "patties"];
-// var search=+prompt("Enter Item Name");
-// if
+// var search=prompt("Welcome to ABC Bakery What do want sir/ma'am");
+// if(A.indexOf(search) !== -1 ){
+//     alert(search+" is available at index of "+ A.indexOf(search)+" in our bakery")
+// }
+// else{
+//     alert("we are sorry. "+search+" is not available")
 
+// }
+
+// ** Chapter 17-20 ** Task 8 **
+
+
+
+// ** Chapter 17-20 ** Task 9 **
+
+
+
+// ** Chapter 17-20 ** Task 10 **
+
+// for(i=5;i<=100;i=i+5)
+// {
+//     document.write(i+" ")
+// }
 
 
